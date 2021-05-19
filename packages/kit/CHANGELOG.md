@@ -1,5 +1,12 @@
 # @sveltejs/kit
 
+## 1.0.0-next.109
+
+### Patch Changes
+
+- 261ee1c: Update compatible Node versions
+- 586785d: Allow passing HTTPS key pair in Vite section of config
+
 ## 1.0.0-next.108
 
 ### Patch Changes
